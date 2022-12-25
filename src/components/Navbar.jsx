@@ -16,6 +16,7 @@ const Navbar = () => {
             </div>
             <div className="deliveryInfo">
               <div className="deliveryName">Deliver to Shahmar</div>
+
               <div className="deliveryAdress">
                 <p>Newyork 10023</p>
               </div>
